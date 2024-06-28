@@ -23,6 +23,12 @@ This software is licensed with [Apache License 2.0](LICENSE).
 }
 ```
 
+## My other quantum projects
+
+- [qlasskit: a python to quantum compiler](https://github.com/dakk/qlasskit)
+- [dqpu: decentralized quantum processing unit](https://github.com/dakk/dqpu)
+- [qc64: Commodore64 quantum emulator](https://github.com/dakk/qc64)
+
 ## About the author
 
 Davide Gessa (dakk)
